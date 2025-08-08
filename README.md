@@ -61,3 +61,10 @@ _All plots generated using Matplotlib and Seaborn._
    ```bash
    git clone https://github.com/yourusername/insurance-data-eda.git
    cd insurance-data-eda
+   ---
+
+## 📬 Contact
+
+**Rishabh Kaushik**  
+[LinkedIn](https://www.linkedin.com/in/rishbkaushi) • [GitHub](https://github.com/rishbkaushik)
+
