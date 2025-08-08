@@ -10,7 +10,6 @@ This project performs exploratory data analysis (EDA) on a health insurance data
 ## 📁 Dataset
 
 - **File**: `insurance.csv`
-- **Source**: [Kaggle - Medical Cost Personal Dataset](https://www.kaggle.com/datasets/mirichoi0218/insurance)
 - **Features:**
   - `age`: Age of the insured person
   - `sex`: Gender
