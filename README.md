@@ -1,6 +1,3 @@
-# Insurance-Dataset-EDA-Project
-Performed exploratory data analysis on a health insurance dataset to identify key factors influencing medical charges. Used Python (Pandas, Seaborn, Matplotlib) to uncover insights related to age, BMI, smoking status, and regional effects on cost.
-
 # 🩺 Insurance Data Analysis
 
 This project performs exploratory data analysis (EDA) on a health insurance dataset to understand how features like age, gender, BMI, smoking status, and region impact medical charges.
@@ -66,5 +63,5 @@ _All plots generated using Matplotlib and Seaborn._
 ## 📬 Contact
 
 **Rishabh Kaushik**  
-[LinkedIn](https://www.linkedin.com/in/rishbkaushi) • [GitHub](https://github.com/rishbkaushik)
+[LinkedIn](https://www.linkedin.com/in/rishbkaushik) • [GitHub](https://github.com/rishbkaushik)
 
